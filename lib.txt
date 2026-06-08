@@ -1,0 +1,15 @@
+Introduction - Login form library is essential while a person is entering library since unauthorized usage may be dangerous 
+
+Purpose - It involves managing library and listing books which a person he/she requires by issueing in his profile
+	there must be a library administrator who looks after each item in library.
+	It involves secure usage  books and all stock
+
+Scope: -Proper interaction between user and library person
+          - Proper and secure login and logout process
+	-till the end all process must be secure
+
+Functional requirements
+-when user enters website he must enter login form
+-the website must be very secure such that it must ask two two step verification such as password
+
+
